@@ -1,0 +1,11 @@
+{
+  "name": "book-store-server",
+  "version": "1.0.0",
+  "description": "server side for book-store react website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahasanur Rahman",
+  "license": "ISC"
+}
