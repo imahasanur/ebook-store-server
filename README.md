@@ -1,5 +1,5 @@
 
-# Ebook Store web app(server side)
+# Ebook Store web app(server side code)
 
 A online ebook store site where an admin can add book or delete book to store, any user after login can give order and show total order
 
